@@ -1,4 +1,4 @@
-# marunekodo archive
+# まるネコ堂　書庫
 
-Ethica
+スピノザ「エチカ」ゼミレジュメ
 - [22](https://marunekodo.github.io/22ethica)
