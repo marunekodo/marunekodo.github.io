@@ -1,2 +1,4 @@
 # marunekodo.github.io
-hello world!
+
+Ethica
+- [22](/22ethica)
