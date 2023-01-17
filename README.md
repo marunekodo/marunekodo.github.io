@@ -1,4 +1,4 @@
-# marunekodo.github.io
+# marunekodo archive
 
 Ethica
-- [22](/22ethica)
+- [22](https://marunekodo.github.io/22ethica)
